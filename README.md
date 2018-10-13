@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/WhyteSpyder/walmart-week-lib.svg?branch=master)](https://travis-ci.org/WhyteSpyder/walmart-week-lib)
+
 # walmart-week-lib #
 
 A simple PHP library use to convert the calendar date to a Walmart Week, as well as convert a Walmart Week to the equivalent calendar date. This is useful when working with Retail Link reports or other supplier sales data.
