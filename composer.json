@@ -1,0 +1,23 @@
+{
+    "name": "whytespyder/walmart-week-lib",
+    "description": "Convert the current calendar date to a Walmart Week. Convert a Walmart Week to the first calendar day of that week.",
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roger Dickey",
+            "email": "rdickey@whytespyder.com",
+            "homepage": "http://whytespyder.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "WhyteSpyder": ["lib/", "tests/"]
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.5@dev"
+    }
+}
